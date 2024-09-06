@@ -42,3 +42,11 @@ Date:   Fri Sep 6 16:51:20 2024 -0400
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
+10. No changes were made to my local repository
+
+11. Running git push returns "Everything up-to-date"
+
+12. After running git pull, the changes I made on github were reflected in my local repository
+
+13. .  ..  .git  .gitignore  README.md
